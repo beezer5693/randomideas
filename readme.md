@@ -30,7 +30,7 @@ or
 npm run dev (Nodemon)
 ```
 
-Visit `http://localhost:5000`
+Visit `http://localhost:8000`
 
 ### Front-end/Webpack Dev Server
 
